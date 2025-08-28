@@ -1,23 +1,44 @@
-# Design Patterns
+# 🧩 Design Patterns
+
+Repositorio de estudos sobre design patterns e suas caracteristicas de soluções reusaveis para problemas comuns no desenvolvimento de software. Conhecendo assim, boas práticas para criar aplicações robustas, de possivel de manutenção e escalabilidade
+
+🔄️ In progress
+✅ Learned
 
 ## Creational Patterns
 
 ✅  | Folder          | Link   |
-:--: | ----------------|--------|
-✅  | Factory Method  | 
-✅  | Abstract Method |
-✅  | Singleton       |
+:--: | ----------------|:-------:|
+✅  | Factory Method  | [🔗](./src/factory_method)
+✅  | Abstract Method | [🔗](./src/abstract_method)
+✅  | Singleton       | [🔗](./src/singleton)
+🔄️  | Builder         |
+🔄️  | Prototype       |
 
 ## Structural Patterns
 
 
-✅  | Folder    | Link |
-:--: | ----------| -----|
-✅  | Facade    |
+✅  | Folder          | Link |
+:--: | ----------------| -----|
+✅  | Facade          | [🔗](./src/facade)
+🔄️  | Adapter         |
+🔄️  | Decorator       |
+🔄️  | Composite       |
+🔄️  | Flyweight       |
+🔄️  | Proxy           |
 
 ## Behavioral Patterns
 
 
-✅  | Folder     | Link |
-:--: |------------|------|
-✅  | Strategy   | 
+✅  | Folder                  | Link |
+:--: |-------------------------|------|
+✅  | Strategy                | [🔗](./src/strategy)
+🔄️  | Chain of responsability |
+🔄️  | Command                 |
+🔄️  | Memento                 |
+🔄️  | Iterator                |
+🔄️  | Mediator                |
+🔄️  | Observer                |
+🔄️  | State                   |
+🔄️  | Visitor                 |
+🔄️  | Template method         |
