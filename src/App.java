@@ -1,6 +1,6 @@
-import facade.Facade;
-import singleton.Singleton;
-import strategy.Strategy;
+import behavioral_patterns.strategy.Strategy;
+import creational_patterns.singleton.Singleton;
+import structural_patterns.facade.Facade;
 
 public class App {
     public static void main(String[] args) throws Exception {

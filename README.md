@@ -9,10 +9,10 @@ Repositorio de estudos sobre design patterns e suas caracteristicas de soluçõe
 
 ✅  | Folder          | Link   |
 :--: | ----------------|:-------:|
-✅  | Factory Method  | [🔗](./src/factory_method)
-✅  | Abstract Method | [🔗](./src/abstract_method)
-✅  | Singleton       | [🔗](./src/singleton)
-🔄️  | Builder         |
+✅  | Factory Method  | [🔗](./src/creational/factory_method)
+✅  | Abstract Method | [🔗](./src/creational/abstract_method)
+✅  | Singleton       | [🔗](./src/creational/singleton)
+✅  | Builder         | [🔗](./src/creational/builder)
 🔄️  | Prototype       |
 
 ## Structural Patterns
