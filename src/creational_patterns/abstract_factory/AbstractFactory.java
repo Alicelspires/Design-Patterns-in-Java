@@ -2,7 +2,7 @@ package creational_patterns.abstract_factory;
 
 /*
  * Cenário: “Temas de UI (Claro/Escuro)”
- * Você precisa renderizar UI com componentes compatíveis entre si. 
+ * É preciso renderizar UI com componentes compatíveis entre si. 
  * Um tema deve fornecer Button e Checkbox do mesmo estilo.
  */
 

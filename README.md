@@ -9,18 +9,18 @@ Repositorio de estudos sobre design patterns e suas caracteristicas de soluçõe
 
 ✅  | Folder          | Link   |
 :--: | ----------------|:-------:|
-✅  | Factory Method  | [🔗](./src/creational/factory_method)
-✅  | Abstract Method | [🔗](./src/creational/abstract_method)
-✅  | Singleton       | [🔗](./src/creational/singleton)
-✅  | Builder         | [🔗](./src/creational/builder)
-🔄️  | Prototype       |
+✅  | Factory Method  | [🔗](./src/creational_patterns/factory_method)
+✅  | Abstract Method | [🔗](./src/creational_patterns/abstract_factory)
+✅  | Singleton       | [🔗](./src/creational_patterns/singleton)
+✅  | Builder         | [🔗](./src/creational_patterns/builder)
+✅  | Prototype       | [🔗](./src/creational_patterns/prototype)
 
 ## Structural Patterns
 
 
 ✅  | Folder          | Link |
 :--: | ----------------| -----|
-✅  | Facade          | [🔗](./src/facade)
+✅  | Facade          | [🔗](./src/structural_patterns/facade)
 🔄️  | Adapter         |
 🔄️  | Decorator       |
 🔄️  | Composite       |
@@ -32,7 +32,7 @@ Repositorio de estudos sobre design patterns e suas caracteristicas de soluçõe
 
 ✅  | Folder                  | Link |
 :--: |-------------------------|------|
-✅  | Strategy                | [🔗](./src/strategy)
+✅  | Strategy                | [🔗](./src/behavioral_patterns/strategy)
 🔄️  | Chain of responsability |
 🔄️  | Command                 |
 🔄️  | Memento                 |
