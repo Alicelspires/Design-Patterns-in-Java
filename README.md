@@ -23,8 +23,8 @@ Repositorio de estudos sobre design patterns e suas caracteristicas de soluçõe
 ✅  | Facade          | [🔗](./src/structural_patterns/facade)
 ✅  | Adapter         | [🔗](./src/structural_patterns/adapter)
 ✅  | Bridge          | [🔗](./src/structural_patterns/bridge)
-🔄️  | Decorator       |
-🔄️  | Composite       |
+✅  | Decorator       | [🔗](./src/structural_patterns/decorator)
+✅  | Composite       | [🔗](./src/structural_patterns/composite)
 🔄️  | Flyweight       |
 🔄️  | Proxy           |
 
