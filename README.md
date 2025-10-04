@@ -33,7 +33,7 @@ Repositorio de estudos sobre design patterns e suas caracteristicas de soluçõe
 
 ✅  | Folder                  | Link |
 :--: |-------------------------|------|
-✅  | Strategy                | [🔗](./src/behavioral_patterns/strategy)
+🔄️  | Strategy                | 
 🔄️  | Chain of responsability |
 🔄️  | Command                 |
 🔄️  | Memento                 |
