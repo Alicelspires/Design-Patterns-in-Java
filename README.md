@@ -34,7 +34,7 @@ Repositorio de estudos sobre design patterns e suas caracteristicas de soluçõe
 ✅  | Folder                  | Link |
 :--: |-------------------------|------|
 🔄️  | Strategy                | 
-🔄️  | Chain of responsability |
+✅  | Chain of responsability | [🔗](./src/com/alice_silva/design_patterns/behavioral_patterns/ChainOfResponsabilities.java)
 🔄️  | Command                 |
 🔄️  | Memento                 |
 🔄️  | Iterator                |
