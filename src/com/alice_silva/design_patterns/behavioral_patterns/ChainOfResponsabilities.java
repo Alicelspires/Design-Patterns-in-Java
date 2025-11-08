@@ -4,6 +4,20 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/*
+ * Implemente um sistema de validação de cadastro de usuários utilizando o 
+ * padrão Chain of Responsibility.
+ * Cada etapa de validação deve ser representada por um manipulador (handler) 
+ * independente, responsável por verificar um critério específico:
+ * 
+ * ValidadorEmail → Verifica se o email contém "@".
+ * ValidadorSenha → Garante que a senha tenha ao menos 8 caracteres, uma letra maiúscula e um número.
+ * ValidadorUsername → Confere se o nome de usuário já existe na lista da equipe.
+ * 
+ * Caso uma validação falhe, o fluxo é interrompido e o erro é exibido.
+ * Se todas forem bem-sucedidas, o cadastro é concluído com sucesso.
+ */
+
 abstract class ValidacaoHandler {
     protected ValidacaoHandler next;
 
@@ -61,6 +75,9 @@ class ValidadorUsername extends ValidacaoHandler {
     }
 }
 
+// ========================================
+// Uso do padrão Chain of Responsabilities
+// ========================================
 public class ChainOfResponsabilities {
     public static void main(String[] args) {
         ValidadorEmail validadorEmail = new ValidadorEmail();

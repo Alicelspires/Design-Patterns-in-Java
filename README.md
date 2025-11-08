@@ -37,8 +37,8 @@ Repositorio de estudos sobre design patterns e suas caracteristicas de soluçõe
 ✅  | Chain of responsability | [🔗](./src/com/alice_silva/design_patterns/behavioral_patterns/ChainOfResponsabilities.java)
 🔄️  | Command                 |
 🔄️  | Memento                 |
-🔄️  | Iterator                |
-🔄️  | Mediator                |
+✅  | Iterator                | [🔗](./src/com/alice_silva/design_patterns/behavioral_patterns/Iterator.java)
+✅  | Mediator                | [🔗](./src/com/alice_silva/design_patterns/behavioral_patterns/Mediator.java)
 🔄️  | Observer                |
 🔄️  | State                   |
 🔄️  | Visitor                 |
